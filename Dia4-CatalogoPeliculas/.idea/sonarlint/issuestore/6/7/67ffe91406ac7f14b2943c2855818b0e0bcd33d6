@@ -1,0 +1,24 @@
+
+i
+java:S2095P"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ö‹…à8Ã¾Ž«Í1
+k
+java:S2095@"IUse try-with-resources or close this "PrintWriter" in a "finally" clause.(Ø °…øÿÿÿÿ8Ã¾Ž«Í1
+i
+java:S2095%"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ö‹…à8Ã¾Ž«Í1
+u	java:S116
+"YRename this field "NOMBRE_ARCHIVO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ãÑ·8Ä¾Ž«Í1
+>
+java:S1170
+"!Make this final field static too.(”ãÑ·8Ä¾Ž«Í1
+L	java:S106"+Replace this use of System.out by a logger.(†µù÷ùÿÿÿÿ8Ë¾Ž«Í1
+L	java:S106"+Replace this use of System.out by a logger.(•áÄ•ÿÿÿÿÿ8Ë¾Ž«Í1
+G	java:S106"+Replace this use of System.out by a logger.(ð˜‡‰8Ì¾Ž«Í1
+F	java:S106,"+Replace this use of System.out by a logger.(á–©`8Î¾Ž«Í1
+L	java:S1063"+Replace this use of System.out by a logger.(²¢´ûúÿÿÿÿ8Ï¾Ž«Í1
+L	java:S106D"+Replace this use of System.out by a logger.(ö½þ„ýÿÿÿÿ8Ð¾Ž«Í1
+L	java:S106F"+Replace this use of System.out by a logger.(­íà…üÿÿÿÿ8Ð¾Ž«Í1
+G	java:S106b"+Replace this use of System.out by a logger.(µðà‹8Ó¾Ž«Í1
+L	java:S106d"+Replace this use of System.out by a logger.(¶îÁðúÿÿÿÿ8Ó¾Ž«Í1
+G	java:S106h"+Replace this use of System.out by a logger.(Ê Àÿ8Ô¾Ž«Í1
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8Õ¾Ž«Í1

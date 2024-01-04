@@ -18,6 +18,14 @@ Exploré conceptos como entrada de usuario, almacenamiento de datos y operacione
 Hoy realizamos un programa de consola para gestionar listas de personas. 
 Se trabaja con arreglos, bucles y funciones, mejorando las habilidades en la manipulación de datos en Java.
 
+## Día 4: 2024-01-04
+### Proyecto: Catalogo de Películas
+Hoy creamos un programa de consola para gestionar un catálogo de películas.
+Se trabaja con clases, objetos y métodos, mejorando las habilidades en la manipulación de datos en Java.
+Y rl catalogo de las peliculas se guarda en un archivo txt para poder tener persistencia de datos dentro d eese txt.
+
+
+
 ¡Sigue mi viaje diario mientras profundizo en los conceptos de Java y desarrollo habilidades más avanzadas! 
 Tu feedback es siempre bienvenido. 
 

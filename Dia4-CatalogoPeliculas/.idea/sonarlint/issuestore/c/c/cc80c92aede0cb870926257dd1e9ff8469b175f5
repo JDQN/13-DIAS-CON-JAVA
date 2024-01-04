@@ -1,0 +1,15 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(íòëÇ8¤û‰ªÍ1
+G	java:S106"+Replace this use of System.out by a logger.(Óƒç8¥û‰ªÍ1
+L	java:S106"+Replace this use of System.out by a logger.(ƒÇãˆúÿÿÿÿ8¦û‰ªÍ1
+G	java:S106$"+Replace this use of System.out by a logger.(áÏŠò8§û‰ªÍ1
+L	java:S106%"+Replace this use of System.out by a logger.(˜ê§¬şÿÿÿÿ8§û‰ªÍ1
+L	java:S106&"+Replace this use of System.out by a logger.(°—åçùÿÿÿÿ8§û‰ªÍ1
+L	java:S106'"+Replace this use of System.out by a logger.(³±Ñìÿÿÿÿÿ8¨û‰ªÍ1
+L	java:S106("+Replace this use of System.out by a logger.(òÛÖ™ùÿÿÿÿ8¨û‰ªÍ1
+G	java:S1061"+Replace this use of System.out by a logger.(Çïï¸8ªû‰ªÍ1
+G	java:S1067"+Replace this use of System.out by a logger.(ÀÚç²8ªû‰ªÍ1
+G	java:S106<"+Replace this use of System.out by a logger.(–—¹•8­û‰ªÍ1
+L	java:S106?"+Replace this use of System.out by a logger.(üßª¾ıÿÿÿÿ8­û‰ªÍ1
+k
+java:S1128"IRemove this unused import 'org.example.services.ServicioPeliculasListar'.(ñïŒíûÿÿÿÿ8ä¡ŠªÍ1
