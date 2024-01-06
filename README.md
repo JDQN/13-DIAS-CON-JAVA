@@ -31,6 +31,13 @@ Se trabaja con clases, objetos y métodos, mejorando las habilidades en la manip
 Y el CRUD de los estudiantes se guarda en una base de datos MySQL para poder tener persistencia de datos dentro de la base de datos.
 Nota Importante: el archivo de la base de datos se encuentra en la carpeta de la raiz del proyecto con el nombre de "estudiantes.sql"
 
+## Día 6: 2024-01-06
+### Proyecto: CRUD de Estudiantes con Base de Datos MySQL y Spring Boot
+Hoy creamos un programa de consola para gestionar un CRUD de estudiantes.
+Se trabaja con clases, objetos y métodos, mejorando las habilidades en la manipulación de datos en Java.
+Y el CRUD de los estudiantes se guarda en una base de datos MySQL para poder tener persistencia de datos dentro de la base de datos.
+Para este proyecto se utilizo Spring Boot para poder tener una mejor estructura del proyecto y poder tener una mejor organizacion de los archivos.
+
 
 
 ¡Sigue mi viaje diario mientras profundizo en los conceptos de Java y desarrollo habilidades más avanzadas! 
