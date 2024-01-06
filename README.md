@@ -24,6 +24,13 @@ Hoy creamos un programa de consola para gestionar un catálogo de películas.
 Se trabaja con clases, objetos y métodos, mejorando las habilidades en la manipulación de datos en Java.
 Y rl catalogo de las peliculas se guarda en un archivo txt para poder tener persistencia de datos dentro d eese txt.
 
+## Día 5: 2024-01-05
+### Proyecto: CRUD de Estudiantes con Base de Datos MySQL
+Hoy creamos un programa de consola para gestionar un CRUD de estudiantes.
+Se trabaja con clases, objetos y métodos, mejorando las habilidades en la manipulación de datos en Java.
+Y el CRUD de los estudiantes se guarda en una base de datos MySQL para poder tener persistencia de datos dentro de la base de datos.
+Nota Importante: el archivo de la base de datos se encuentra en la carpeta de la raiz del proyecto con el nombre de "estudiantes.sql"
+
 
 
 ¡Sigue mi viaje diario mientras profundizo en los conceptos de Java y desarrollo habilidades más avanzadas! 

@@ -1,0 +1,41 @@
+
+r
+java:S2095‚"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(·ë¡ãøÿÿÿÿ8°œŞÚÍ1
+q
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(·ë¡ãøÿÿÿÿ8°œŞÚÍ1
+r
+java:S2095Ÿ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(·ë¡ãøÿÿÿÿ8°œŞÚÍ1
+q
+java:S2095d"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(·ë¡ãøÿÿÿÿ8°œŞÚÍ1
+q
+java:S2095B"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(·ë¡ãøÿÿÿÿ8°œŞÚÍ1
+L	java:S106,"+Replace this use of System.out by a logger.(Ö¸šŞÿÿÿÿÿ8µœŞÚÍ1
+G	java:S1063"+Replace this use of System.out by a logger.(õü¥õ8µœŞÚÍ1
+L	java:S106O"+Replace this use of System.out by a logger.(šİöÂùÿÿÿÿ8·œŞÚÍ1
+G	java:S106V"+Replace this use of System.out by a logger.(õü¥õ8·œŞÚÍ1
+G	java:S106m"+Replace this use of System.out by a logger.(û™—Õ8¹œŞÚÍ1
+G	java:S106t"+Replace this use of System.out by a logger.(Ïë›»8¹œŞÚÍ1
+M	java:S106‹"+Replace this use of System.out by a logger.(‚óÆÿÿÿÿÿ8ºœŞÚÍ1
+H	java:S106"+Replace this use of System.out by a logger.(Ú­¥ö8»œŞÚÍ1
+E
+java:S1481š"'Remove this unused "rs" local variable.(¶¨ÜŒ8»œŞÚÍ1
+G	java:S106£"+Replace this use of System.out by a logger.(¯´× 8»œŞÚÍ1
+M	java:S106¨"+Replace this use of System.out by a logger.(ê¤´µıÿÿÿÿ8»œŞÚÍ1
+M	java:S106¸"+Replace this use of System.out by a logger.(ÌŸœ½øÿÿÿÿ8½œŞÚÍ1
+M	java:S106º"+Replace this use of System.out by a logger.(§©”ëúÿÿÿÿ8¾œŞÚÍ1
+M	java:S106Â"+Replace this use of System.out by a logger.(Şå†‹øÿÿÿÿ8¾œŞÚÍ1
+H	java:S106Ä"+Replace this use of System.out by a logger.(¾Û«¦8¾œŞÚÍ1
+M	java:S106Ì"+Replace this use of System.out by a logger.(­ÚØúÿÿÿÿ8¾œŞÚÍ1
+M	java:S106Î"+Replace this use of System.out by a logger.(äÈ—ùÿÿÿÿ8¿œŞÚÍ1
+M	java:S106Ó"+Replace this use of System.out by a logger.(ßÍ¾¦şÿÿÿÿ8¿œŞÚÍ1
+M	java:S106Õ"+Replace this use of System.out by a logger.(½ªºûÿÿÿÿ8¿œŞÚÍ1
+M	java:S106Ú"+Replace this use of System.out by a logger.(ãÎ¨Ñıÿÿÿÿ8¿œŞÚÍ1
+H	java:S106İ"+Replace this use of System.out by a logger.(Ùÿ©’8³ûâÚÍ1
+H	java:S106ß"+Replace this use of System.out by a logger.(ó»éº8µûâÚÍ1
+^
+java:S1128"<Remove this unused import 'com.mysql.cj.protocol.Resultset'.(«‹’ûÿÿÿÿ8ø àÚÍ1
+h
+java:S1128"FRemove this unused import 'com.sistema.estudiantes.conexion.Conexion'.(ºĞÆÀúÿÿÿÿ8ø àÚÍ1
+O
+java:S1128
+"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8ø àÚÍ1
