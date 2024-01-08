@@ -38,6 +38,12 @@ Se trabaja con clases, objetos y métodos, mejorando las habilidades en la manip
 Y el CRUD de los estudiantes se guarda en una base de datos MySQL para poder tener persistencia de datos dentro de la base de datos.
 Para este proyecto se utilizo Spring Boot para poder tener una mejor estructura del proyecto y poder tener una mejor organizacion de los archivos.
 
+## Día 7: 2024-01-07
+### Proyecto: CRUD Tienda de libros con base de datos MySQL y JavaFX
+Hoy creamos un crud de tienda de libros con base de datos MySQL y JavaFX para poder tener una interfaz grafica.
+Se trabaja con clases, objetos y métodos, mejorando las habilidades en la manipulación de datos en Java.
+Y el CRUD de los libros se guarda en una base de datos MySQL para poder tener persistencia de datos dentro de la base de datos.
+<img src="Dia7-TiendaLibrosJavaFX/src/img/img.png" title="Imagen de la interfas de tienda de libros"/>
 
 
 ¡Sigue mi viaje diario mientras profundizo en los conceptos de Java y desarrollo habilidades más avanzadas! 
