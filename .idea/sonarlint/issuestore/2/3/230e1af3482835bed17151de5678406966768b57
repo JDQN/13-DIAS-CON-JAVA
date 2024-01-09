@@ -1,0 +1,24 @@
+
+E	java:S106"+Replace this use of System.out by a logger.(½è©Üøÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(•ãÌŒ
+?	java:S106"+Replace this use of System.out by a logger.(†Â¿)
+E	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ëœ·
+E	java:S106""+Replace this use of System.out by a logger.(Ä¡Ø³ûÿÿÿÿ
+E	java:S106$"+Replace this use of System.out by a logger.(À‰¬êşÿÿÿÿ
+E	java:S106%"+Replace this use of System.out by a logger.(óÍûøøÿÿÿÿ
+?
+java:S1172*")Remove this unused method parameter "sc".(——ß™
+E	java:S106,"+Replace this use of System.out by a logger.(™ÎŸüÿÿÿÿÿ
+E	java:S1061"+Replace this use of System.out by a logger.(¾ŠÊ¯øÿÿÿÿ
+E	java:S106:"+Replace this use of System.out by a logger.(§ß°şÿÿÿÿ
+E	java:S106>"+Replace this use of System.out by a logger.(¢æÈµıÿÿÿÿ
+?	java:S106B"+Replace this use of System.out by a logger.(®äá 
+@	java:S106F"+Replace this use of System.out by a logger.(©Îş
+E	java:S106I"+Replace this use of System.out by a logger.(‡´åşÿÿÿÿ
+7
+java:S6205L"Remove this redundant block.(ï·áãüÿÿÿÿ
+@	java:S106M"+Replace this use of System.out by a logger.(ßı‚Ì
+2
+java:S6205O"Remove this redundant block.(üØô
+E	java:S106P"+Replace this use of System.out by a logger.(ëÛŞ±şÿÿÿÿ

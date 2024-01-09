@@ -51,8 +51,8 @@ Y el CRUD de los libros se guarda en una base de datos MySQL para poder tener pe
 Hoy creamos un crud de sistema de tareas con base de datos MySQL, JavaFX utilizando "FXML" y Spring Boot.
 El CRUD de las tareas se guarda en una base de datos MySQL para poder tener persistencia de datos.
 La interfaz grafica se realizo con JavaFX y se utilizo Spring Boot para poder tener una mejor estructura del proyecto y poder tener una mejor organizacion de los archivos.
-la interfax grafica esta creada en la carpeta de resources con el nombre de "FXML" y el archivo principal es "index.fxml"
-<img src="Dia8-SistemaTareasJavaFX/src/img/img.png" title="Imagen de la interfas de sistema de tareas"/>
+la interfax grafica esta creada en la carpeta de resources con el nombre de "FXML" y el archivo principal es "index.fxml". 
+<img src="Dia8-SistemaTareasJavaFX/src/img/sistematarea.png" title="Imagen de la interfas de sistema de tareas"/>
 
 
 
