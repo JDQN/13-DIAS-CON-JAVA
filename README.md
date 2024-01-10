@@ -55,6 +55,15 @@ la interfax grafica esta creada en la carpeta de resources con el nombre de "FXM
 <img src="Dia8-SistemaTareasJavaFX/src/img/sistematarea.png" title="Imagen de la interfas de sistema de tareas"/>
 
 
+## Día 9: 2024-01-10
+### Proyecto: CRUD Sistema de Empleados con base de datos MySQL, JavaFX, Spring Boot y la tegnologia de JSP WEB
+Hoy creamos un crud de sistema de empleados con base de datos MySQL, utilizando Spring Boot y la tegnologia de JSP WEB.
+El CRUD de los empleados se guarda en una base de datos MySQL para poder tener persistencia de datos.
+La interfaz grafica se realizo con JSP WEB y se utilizo Spring Boot para poder tener una mejor estructura del proyecto y poder tener una mejor organizacion de los archivos.
+la interfax grafica esta creada en la carpeta de resources con el nombre de "WEB-INF" y el archivo principal es "index.jsp".
+Se crean las rutas dinamicas para poder tener una mejor organizacion de los archivos.
+<img src="Dia9-SistemaEmpleadosJSP/src/img/img.png" title="Imagen de la interfas de sistema de empleados"/>
+
 
 ¡Sigue mi viaje diario mientras profundizo en los conceptos de Java y desarrollo habilidades más avanzadas! 
 Tu feedback es siempre bienvenido. 
