@@ -7,3 +7,5 @@ p
 @Dia8-sistemaTareasJavaFX/src/main/resources/templates/index.fxml,b\b\bb99b6031993aa1434d36fdeaf806c681d720401
 e
 5Dia1-CalculadoraApp/src/main/java/CalculadoraApp.java,2\3\230e1af3482835bed17151de5678406966768b57
+S
+#Dia10-SistemaContactos/build.gradle,1\6\16433f2b67238db44644f62965e7c0bfbf664287

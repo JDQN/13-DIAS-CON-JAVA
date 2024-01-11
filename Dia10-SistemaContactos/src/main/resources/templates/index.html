@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head th:replace="~{fragmentos/cabecero::cabecero-seccion(titulo='Inicio')}"></head>
+<body>
+
+<!-- navbar -->
+<div th:replace="~{fragmentos/navegacion::navegacion-seccion}"></div>
+
+
+<div class="container">
+    <div class="container text-center" style="margin: 30px">
+        <h3>Sistema de Contactos</h3>
+    </div>
+</div>
+
+
+<div class="container">
+    <table class="table table-striped table-hover table-bordered align-middle">
+        <thead class="table-dark text-center">
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Nombre</th>
+            <th scope="col">Celular</th>
+            <th scope="col">Email</th>
+            <th scope="col">Direccion</th>
+            <th scope="col">Ciudad</th>
+            <th scope="col"></th>
+        </tr>
+        </thead>
+
+        <tbody>
+        <tr th:each="contacto: ${contactos}">
+            <th th:text="${contacto.idContacto}" scope="row"></th>
+            <td th:text="${contacto.nombre}"></td>
+            <td th:text="${contacto.celular}"></td>
+            <td th:text="${contacto.email}"></td>
+            <td th:text="${contacto.direccion}"></td>
+            <td th:text="${contacto.ciudad}"></td>
+            <td class="text-center">
+                <a th:href="@{/editar/{id}(id=${contacto.idContacto})}"
+                    class="btn btn-warning btn-sm me-3">Editar</a>
+
+                <a th:href="@{/eliminar/{id}(id=${contacto.idContacto})}"
+                    class="btn btn-danger btn-sm ">Eliminar</a>
+            </td>
+        </tr>
+        </tbody>
+    </table>
+
+</div>
+
+
+<!-- footer -->
+<div th:replace="~{fragmentos/pie-pagina::pie-pagina-seccion}"/>
+
+</body>
+</html>

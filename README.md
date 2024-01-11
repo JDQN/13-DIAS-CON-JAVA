@@ -65,6 +65,14 @@ Se crean las rutas dinamicas para poder tener una mejor organizacion de los arch
 IMG -> La imagen de la interfas de sistema de empleados se encuentra en Dia9-SistemaEmpleadosJSP/src/img/img.png
 
 
+## Día 10: 2024-01-11
+### Proyecto: CRUD Sistema de Contactos con base de datos MySQL, Thymeleaf, Spring Boot
+Hoy creamos un crud de sistema de contactos con base de datos MySQL, utilizando Spring Boot y la tegnologia de Thymeleaf.
+El CRUD de los contactos se guarda en una base de datos MySQL para poder tener persistencia de datos.
+La interfaz grafica se realizo con Thymeleaf y se utilizo Spring Boot para poder tener una mejor estructura del proyecto y poder tener una mejor organizacion de los archivos.
+IMG -> La imagen de la interfas de sistema de contactos se encuentra en Dia10-SistemaContactosThymeleaf/src/img/img.png
+
+
 ¡Sigue mi viaje diario mientras profundizo en los conceptos de Java y desarrollo habilidades más avanzadas! 
 Tu feedback es siempre bienvenido. 
 
