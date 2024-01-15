@@ -73,6 +73,13 @@ La interfaz grafica se realizo con Thymeleaf y se utilizo Spring Boot para poder
 IMG -> La imagen de la interfas de sistema de contactos se encuentra en Dia10-SistemaContactosThymeleaf/src/img/img.png
 
 
+## Día 11: 2024-01-15
+### Proyecto: CRUD Sistema de configuracion bancaria con base de datos MySQL, PrimeFaces, Spring Boot
+Hoy creamos un crud de sistema de configuracion bancaria con base de datos MySQL, utilizando Spring Boot y la tegnologia de PrimeFaces.
+El CRUD de la configuracion bancaria se guarda en una base de datos MySQL para poder tener persistencia de datos.
+La interfaz grafica se realizo con PrimeFaces y se utilizo Spring Boot para poder tener una mejor estructura del proyecto y poder tener una mejor organizacion de los archivos.
+
+
 ¡Sigue mi viaje diario mientras profundizo en los conceptos de Java y desarrollo habilidades más avanzadas! 
 Tu feedback es siempre bienvenido. 
 
